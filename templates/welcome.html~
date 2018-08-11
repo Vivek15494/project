@@ -1,0 +1,8 @@
+<html>
+<head></head>
+<body>
+<h1>{{name}}</h1>
+<h2>{{age}}</h2>
+<p1>Hi Welcome to my personal Amazon page</p1>
+</body>
+</html>
